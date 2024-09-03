@@ -1,4 +1,4 @@
-# spo3
+# pragmatic
 
 ## Project setup
 ```
